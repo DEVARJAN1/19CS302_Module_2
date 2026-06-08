@@ -3,7 +3,7 @@
 ## AIM:
 To write a C program to find the factorial of a given number using a function with arguments and return type.
 
-## Algorithm
+## Algorithm 
 1.Start.
 2.Declare the variables.
 3.Prompt the user to enter a value.
