@@ -8,7 +8,7 @@ To write a C program to perform multiplication and division of two numbers using
 2.Declare two global variables for the numbers.
 3.Create two functions — one for multiplication and one for division — without arguments and return type. 
 4.In main(), take input for the two numbers, then call both functions. 
-5.End the program.
+5.End the program. 
 
 ## Program:
 ```
